@@ -5,6 +5,7 @@ a repo for icarus' phase 2
 
 # Tools used:
 qwen ai- for understanding the project and making sense of the steps
+
 circuitjs1- online open source SPICE tool for creating the circuit and obtaining waveforms
 
 ---------------------
